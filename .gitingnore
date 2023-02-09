@@ -1,0 +1,12 @@
+.gitignore
+eog
+evolution
+xdg-terminals.list
+user-dirs.locale
+user-dirs.dirs
+GNOME-xdg-terminals.list
+dleyna-renderer-service.conf
+.gsd-keyboard.settings-ported
+totem
+pulse
+dconf
